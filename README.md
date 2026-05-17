@@ -1,55 +1,43 @@
-<div align="center">
+# Sifotech
 
-# 👋 Welcome to Sifotech
+**We build software that works.**
 
-**Building digital products for communities**
-*Bradford, UK*
-
-🌐 [sifotech.co.uk](https://sifotech.co.uk)
-
-</div>
+Sifotech is a UK software studio based in Bradford. We ship production SaaS, mobile apps, AI integrations and compliance platforms for regulated industries.
 
 ---
 
-## 🚀 Our Products
+## Our products
 
-| Product | What it does | Tech | Status |
-|---------|-------------|------|--------|
-| 🕌 **SangatLearn** | Sikh community platform — Gurdwara management, Punjabi school & AI teachers | Next.js · Supabase · Claude AI | 🔨 Building |
-| 🛡️ **CyberShield** | UK family cyber security — 45+ free protection tools | Next.js · Supabase | ✅ Live |
-| 🚚 **X-Eagle Booking** | Same-day courier booking with instant quotes | Next.js · Supabase | ✅ Live |
-| 📋 **ComplyFleet** | DVSA compliance management for UK transport | JavaScript · Supabase | ✅ Live |
-| 🦅 **Eagle Academy** | Online learning & training platform | TypeScript · Supabase | ✅ Live |
-| 🧠 **DesiMind** | Community wellbeing platform | TypeScript · Supabase | ✅ Live |
-| 🔗 **LoadLink** | Transport & logistics connection platform | TypeScript · Supabase | ✅ Live |
-| 🚗 **GarageAlert** | Vehicle maintenance alert system | TypeScript · Supabase | ✅ Live |
+- **ComplyOS** — UK compliance platform for regulated industries — [complyos.co.uk](https://complyos.co.uk) *(private repo)*
+- **CyberShield** — AI scam-check for UK families and SMEs — [cybershield.uk](https://cybershield.uk)
+- **HushOS** — free-forever browser-based tinnitus therapy — [hushos.vercel.app](https://hushos.vercel.app)
+- **HeartLog** — home blood-pressure and ABPM journal — [heartlog.uk](https://heartlog.uk)
+- **X-Eagle** — same-day UK courier dispatch and CRM — [xeagle.co.uk](https://xeagle.co.uk)
+- **BahiKhata** — AI accountant in your language — [bahikhata.co.uk](https://bahikhata.co.uk)
+
+## Services
+
+- Custom SaaS development
+- Mobile apps (iOS and Android)
+- AI integration and tooling
+- Compliance platforms for regulated industries
+- Dispatch and logistics systems
+- Tender response writing
+
+## How we ship
+
+- **AI-native** — every product uses AI where it earns its keep, not as decoration.
+- **Founder-led** — the people who design it ship it, and stay on after launch.
+- **Evidence-led** — we measure outcomes, audit our own work, and publish what we learn.
+
+## Trust
+
+Companies House #15823876 · ICO registered C1900946 · Bradford, United Kingdom · UK-hosted infrastructure
+
+## Get in touch
+
+[sifotech.co.uk](https://sifotech.co.uk) · hello@sifotech.co.uk · [LinkedIn](https://www.linkedin.com/company/sifotech)
 
 ---
 
-## 🛠️ We Build With
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)
-
----
-
-## 📊 Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SifotechHQ&show_icons=true&theme=dark&count_private=true&hide_border=true)
-
----
-
-<div align="center">
-
-*All repositories are private — protecting our clients' intellectual property*
-
-**Interested in working with us?**
-📧 [sifotech.co.uk](https://sifotech.co.uk)
-
-</div>
+*Product source repositories are kept private to protect client data and intellectual property. See our community health files in [.github](https://github.com/SifotechHQ/.github) — security policy, contributing guide, code of conduct.*
